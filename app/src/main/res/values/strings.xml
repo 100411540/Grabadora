@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Grabadora</string>
+    <string name="detener_reproducci_n">Detener reproducción</string>
+    <string name="comenzar_a_grabar">Comenzar a grabar</string>
+    <string name="reproducir_grabaci_n">Reproducir grabación</string>
+    <string name="nombre_de_la_grabaci_n">Nombre de la grabación</string>
+    <string name="detener_grabaci_n">Detener grabación</string>
+    <string name="vibrar">Vibrar</string>
+</resources>
