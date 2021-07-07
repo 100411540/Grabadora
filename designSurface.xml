@@ -3,7 +3,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_admin.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_cobrar.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_cuenta.xml" value="0.2803442028985507" />
+        <entry key="app/src/main/res/layout/activity_gestion.xml" value="0.2803442028985507" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2921195652173913" />
+        <entry key="app/src/main/res/layout/activity_productos.xml" value="0.2803442028985507" />
       </map>
     </option>
   </component>
