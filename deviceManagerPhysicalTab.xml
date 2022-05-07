@@ -1,0 +1,18 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="FUH0216706010001" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-07T12:20:24.410737Z" />
+        <name value="HUAWEI HUAWEI VNS-L31" />
+        <target value="Android 7.0" />
+        <api value="24" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
